@@ -1,0 +1,5 @@
+{
+  "name": "Omnilytics",
+  "description": "A forensic dashboard for causal video analysis, counterfactual reasoning, and automated regulatory reporting using Gemini 3.",
+  "requestFramePermissions": []
+}
